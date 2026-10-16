@@ -1,0 +1,6 @@
+node_modules/
+*.log
+.printer-mcp-temp/
+data/history.json
+data/settings.json
+data/*.tmp

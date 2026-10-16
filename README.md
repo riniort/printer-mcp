@@ -1,5 +1,7 @@
 # Printer MCP
 
+[English](README.en.md) | **ไทย**
+
 MCP server สำหรับสั่งพิมพ์ไฟล์บน Windows ผ่าน Codex ด้วยภาษาธรรมชาติหรือคำสั่งลัด `/print` รองรับไฟล์ PDF, Microsoft Office, รูปภาพ, ไฟล์ข้อความ, path ภายในเครื่อง และ UNC network path
 
 โปรเจกต์นี้ทำงานแบบ local ผ่าน MCP `stdio` งานพิมพ์จึงถูกส่งจากเครื่อง Windows ที่รัน Codex ไปยังเครื่องพิมพ์ที่ติดตั้งอยู่ใน Windows โดยตรง
@@ -360,7 +362,8 @@ printer-mcp/
 │  └─ smoke.mjs      MCP smoke test แบบไม่พิมพ์จริง
 ├─ package.json
 ├─ package-lock.json
-└─ README.md
+├─ README.md
+└─ README.en.md
 ```
 
 ## การพัฒนา

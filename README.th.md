@@ -362,6 +362,7 @@ printer-mcp/
 │  └─ smoke.mjs      MCP smoke test แบบไม่พิมพ์จริง
 ├─ package.json
 ├─ package-lock.json
+├─ LICENSE
 ├─ README.md
 └─ README.th.md
 ```
@@ -448,4 +449,4 @@ codex mcp remove printer
 
 ## License
 
-โปรเจกต์นี้เป็นเครื่องมือ local/private และยังไม่ได้กำหนด license สำหรับการเผยแพร่ต่อสาธารณะ
+เผยแพร่ภายใต้ [MIT License](LICENSE) สามารถนำไปใช้ แก้ไข แจกจ่าย ให้สิทธิ์ต่อ และใช้เชิงพาณิชย์ได้ โดยต้องเก็บข้อความลิขสิทธิ์และข้อความอนุญาตไว้ ซอฟต์แวร์นี้ไม่มีการรับประกัน

@@ -349,6 +349,7 @@ printer-mcp/
 │  └─ smoke.mjs         non-printing MCP smoke test
 ├─ package.json
 ├─ package-lock.json
+├─ LICENSE
 ├─ README.md
 └─ README.th.md
 ```
@@ -435,4 +436,4 @@ This removes the MCP registration but does not delete `%USERPROFILE%\.codex\mcp-
 
 ## License
 
-This project does not currently include a license for redistribution.
+Released under the [MIT License](LICENSE). You may use, modify, distribute, sublicense, and sell copies of the software, including for commercial purposes, provided that the copyright and permission notice are retained. The software is provided without warranty.
